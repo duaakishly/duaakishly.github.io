@@ -147,6 +147,11 @@ h6 {
     margin: 50px;
     margin-left: -350px;
   }
+@media only screen and (max-width: 480px) {
+.btn-get-started {
+    text-align: center;
+   }
+}
 
  video {
   width:100%;
